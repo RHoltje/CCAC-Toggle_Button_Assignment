@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Toggle Buttons</string>
+    <string name="Header">On/Off Wifi</string>
+    <string name="txtView2">WIFI ON</string>
+    <string name="txtViewWifiOn">WIFI ON</string>
+    <string name="txtViewWifiOff">WIFI OFF</string>
+
+
+</resources>
